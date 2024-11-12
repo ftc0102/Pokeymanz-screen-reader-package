@@ -2,10 +2,55 @@
 sugimori	SoogieMori	0	2
 Konami	Co NaMi	0	2
 ^07th.	seventh	0	1
-^Poké(?!mon)	Pokee	0	1
+Poké(\w+)	Pokee    \1	0	1
 Nav	nav	1	1
 two	 two	0	0
-tiacat11	tia cat 11	0	0
-blusz	blues	0	0
+\btiacat11\b	tia cat 11	0	1
+\bblusz\b	blues	0	1
 YuGiOh|Yu-gi-oh	yoo gheeo	0	1
 jentleman	Gentleman	0	1
+GMing	G M ing	0	1
+\bwyd\b	what are you doing	0	1
+\bmfw\b	my face when	0	1
+GMs	gee ehms	0	2
+\bGalarian\b	guhlayrian	0	1
+\bPsyduck\b	Psi duck	0	1
+Merchandizable	Merchandisable	0	1
+\bLucario\b	Lucarrio	0	1
+Lysandre	Lysander	0	2
+Seto	SetToe	0	1
+Rattata	Rat tatta	0	1
+Fakemon	Fake Mon	0	2
+\bm8\b	mate	0	1
+Speccing\b	 Speccing	0	1
+Galvantula	Galvahnchula	0	2
+\beyyyyuuuhhh\sohhhh\b	A Uh Oh	0	1
+\bGURPS\b	Gherps	0	1
+\b50\/50\b	fifty out of fifty	0	1
+\b33\s1\/3\b	thirty three and one third	0	1
+\b141\s2\/3\b	one forty one and two thirds	0	1
+\b2\/3\b	two thirds	0	1
+Bibarel	BeeBarrel	0	2
+\bIVs\b	I Vees	0	1
+\b(\d+)\-(\d+|\W)\b	\1 to \2	0	1
+Honedge	Hone edge	0	2
+Gyarados	GairaDose	0	2
+faSTER	faster	1	2
+kingambit	king gambit	0	2
+Ho-oh	Ho oh	0	2
+Lechonk	leh chonck	0	2
+Tyranitar	Ty ran itar	0	2
+OP pls	O P please	0	2
+<(\-+)	 	0	1
+Hungrybox	Hungry box	0	2
+Mt. 	Mount	0	1
+\*([a-z]+)\*	\1	0	1
+geodude	geo dude	0	1
+OCs	ohcees	0	2
+PCs	peecees	0	2
+Whismur	Whismurr	0	2
+Paras	Pairas	0	2
+Polis	Polys	0	2
+im[a]+gination	imagination	0	1
+\bp\.\s	page	0	1
+Empwnleon	Em pone leon	0	2
